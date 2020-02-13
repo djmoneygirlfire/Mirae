@@ -1,0 +1,1 @@
+Warning: None triangle mesh: Mesh169 (file: 'D:\Cloud\XNA\FBX\building\Space Needle\Space Needle.FBX') [ (line 0)]
