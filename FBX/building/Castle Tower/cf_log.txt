@@ -1,0 +1,1 @@
+Warning: Mesh Spiral Tower Front Right without valid vertices (file: 'D:\Cloud\XNA\FBX\building\Castle Tower\Castle Tower.FBX') [ (line 0)]
