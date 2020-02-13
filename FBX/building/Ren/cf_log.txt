@@ -1,0 +1,1 @@
+Warning: None triangle mesh: Mesh58 (file: 'D:\Cloud\XNA\FBX\building\Ren\Ren.FBX') [ (line 0)]
