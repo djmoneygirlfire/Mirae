@@ -1,0 +1,1 @@
+Warning: Invalid texture in material wooden barsm (file: 'D:\Cloud\XNA\FBX\building\TownHouse Apartment\TownHouse Apartment.FBX') [ (line 0)]

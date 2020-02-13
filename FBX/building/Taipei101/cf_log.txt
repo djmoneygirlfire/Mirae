@@ -1,0 +1,1 @@
+Warning: None triangle mesh: Mesh11 (file: 'D:\Cloud\XNA\FBX\building\Taipei101\Taipei101.fbx') [ (line 0)]
