@@ -1,0 +1,1 @@
+Warning: None triangle mesh: Mesh68 (file: 'D:\Cloud\XNA\FBX\building\Willis Tower\Willis Tower.FBX') [ (line 0)]
